@@ -1,0 +1,12 @@
+body {
+    background-color: #CCFFCC;
+}
+
+.card-header {
+    background-color: gray;
+}
+
+.actionD {
+    display: flex;
+    justify-content: space-around;
+}
